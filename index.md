@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## COSA Community Leaders
 
 You can use the [editor on GitHub](https://github.com/OpenSourceArts/COSA_CL_2020/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
