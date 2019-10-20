@@ -1,37 +1,11 @@
-## COSA Community Leaders
+# COSA Community Leaders Program
 
-You can use the [editor on GitHub](https://github.com/OpenSourceArts/COSA_CL_2020/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Clinic for Open Source Arts [COSA](https://www.du.edu/ahss/opensourcearts/) is excited to announce our Community Leaders Program for 2020. We will be focused on training leaders for the communities surrounding open source creative tools, emphasizing accessibility, inclusiveness, education, contribution, and sustainability. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We believe one important step towards healthier open source tools for the arts is having community leaders who are trained to make sure that the efforts of contributors to projects (both new and ongoing) are respected and fruitful, and that new kinds of contributors to a project are invited and onboarded in ways that result in a diverse and inclusive community.
 
-### Markdown
+Our program builds on the [Mozzilla Open Leaders](https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/) program for an open and healthy internet. Our goal is to empower people to build new communities or step into existing ones with the tools and skills to guide those communities. We hope they will be able to interface between the creators of projects and the many types of contributors including those that code, those that educate, those that help, and those that share. The program will combine several weeks of online training with several days of in-person workshops hosted by COSA in Denver Colorado, USA. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Applications for the program will be announced in April 2020. Please fill out this form to be notified or to share ideas about projects or communities that we should be looking to help!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OpenSourceArts/COSA_CL_2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
